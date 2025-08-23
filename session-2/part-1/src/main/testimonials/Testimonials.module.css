@@ -1,0 +1,11 @@
+.testimonials {
+  background: #ffffff;
+  padding: 30px;
+  margin-bottom: 40px;
+  border-left: 4px solid #fbc02d;
+  border-radius: 4px;
+}
+
+.testimonial {
+  margin-bottom: 20px;
+}
