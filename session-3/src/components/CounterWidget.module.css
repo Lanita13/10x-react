@@ -1,0 +1,33 @@
+.dynamic {
+    padding: 20px;
+    border-radius: 8px;
+    background-color: rgb(218, 69, 136);
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+h3{
+   font-size: 2rem;
+   font-weight: 500;
+   color: blanchedalmond;
+}
+
+p{
+    font-size: 40px;
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+
+.btn-1{
+    padding: 8px 12px;
+    background-color: rgb(59, 59, 188);
+    color: white;
+}
