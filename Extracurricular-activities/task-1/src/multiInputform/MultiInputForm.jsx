@@ -68,4 +68,4 @@ function MultiInputForm() {
     );
 }
 
-export default MultiInputForm;
+export default  MultiInputForm;
